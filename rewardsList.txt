@@ -1,0 +1,80 @@
+Tier 1, Reward 1
+	ID: Prod56832
+	Name: Small Fries and Small Onion Rings.
+	Point Value: 30
+	Inventory Count: 10000
+Tier 1, Reward 2
+	ID: Prod56833
+	Name: Single Scoop Ice Cream Cone
+	Point Value: 30
+	Inventory count: 10000
+Tier 1, Reward 3
+	ID: Prod56834
+	Name: Small Soda
+	Point Value: 30
+	Inventory count: 10000
+Tier 1, Reward 4
+	ID: Prod56835
+	Name: Mini Donut
+	Point Value: 30
+	Inventory count: 10000
+Tier 2, Reward 1
+	ID: Prod56836
+	Name: Medium Fries and Medium Onion Rings
+	Point Value: 60
+	Inventory count: 10000
+Tier 2, Reward 2
+	ID: Prod56837
+	Name: Small Cheeseburger
+	Point Value: 60
+	Inventory count: 10000
+Tier 2, Reward 3
+	ID: Prod56838
+	Name: Medium Soda
+	Point Value: 60
+	Inventory count: 10000
+Tier 2, Reward 4
+	ID: Prod56839
+	Name: Small 1-Topping Pizza
+	Point Value: 60
+	Inventory count: 10000
+Tier 3, Reward 1
+	ID: Prod56840
+	Name: Large Fruit Smoothie
+	Point Value: 90
+	Inventory count: 10000
+Tier 3, Reward 2
+	ID: Prod56841
+	Name: Bacon Cheeseburger
+	Point Value: 90
+	Inventory count: 10000
+Tier 3, Reward 3
+	ID: Prod56842
+	Name: Salad
+	Point Value: 90
+	Inventory count: 10000
+Tier 3, Reward 4
+	ID: Prod56843
+	Name: Medium 2-Topping Pizza
+	Point Value: 90
+	Inventory count: 10000
+Tier 4, Reward 1
+	ID: Prod56844
+	Name: Large Fries and Large Onion Rings
+	Point Value: 120
+	Inventory count: 10000
+Tier 4, Reward 2
+	ID: Prod56845
+	Name: Double Bacon Cheeseburger
+	Point Value: 120
+	Inventory Count: 10000
+Tier 4, Reward 3
+	ID: Prod56846
+	Name: Chicken Salad
+	Point Value: 120
+	Inventory count: 10000
+Tier 4, Reward 4
+	ID: Prod56847
+	Name: Large 3-Topping Pizza
+	Point Value: 120
+	Inventory Count: 10000
